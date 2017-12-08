@@ -9,10 +9,14 @@ You can install them via pip.
 
 After you have installed pip use the following command:
 ```
-pip install -r requirements.txt4
+pip install -r requirements.txt
 ```
 
 Then run:
 ```
 python quotes-scrapper.py
 ```
+
+For any help PING me at: 
+[Facebook](https://www.facebook.com/jsc3998)
+
