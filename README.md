@@ -16,6 +16,9 @@ Then run:
 ```
 python quotes-scrapper.py
 ```
+A .txt file of the name same as topic is created within the directory from which the script was executed
+
+If you are using Python version below 3, you might want to change line 18 in quotes-scrapper.py to raw_input() from input()
 
 For any help PING me at: 
 [Facebook](https://www.facebook.com/jsc3998)
